@@ -24,12 +24,74 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+## References
 
-You can also embed plots, for example:
+Allison, P.D., 1990. Change Scores as Dependent Variables in Regression Analysis. Sociological methodology, 20, pp.93–114. Available at: http://www.jstor.org/stable/271083.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Bajorski, P. & Petkau, J., 1999. Nonparametric Two-Sample Comparisons of Changes on Ordinal Responses. Journal of the American Statistical Association, 94(447), pp.970–978. Available at: https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1999.10474201.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Berry, D.A. & Ayers, G.D., 2006. Symmetrized Percent Change for Treatment Comparisons. The American statistician, 60(1), pp.27–31. Available at: http://www.jstor.org/stable/27643723.
+
+Bland, J.M. & Altman, D.G., 2011. Comparisons against baseline within randomised groups are often used and can be highly misleading. Trials, 12, p.264. Available at: http://dx.doi.org/10.1186/1745-6215-12-264.
+
+van Breukelen, G.J.P., 2013. ANCOVA Versus CHANGE From Baseline in Nonrandomized Studies: The Difference. Multivariate behavioral research, 48(6), pp.895–922. Available at: http://dx.doi.org/10.1080/00273171.2013.831743.
+
+Brogan, D.R. & Kutner, M.H., 1980. Comparative Analyses of Pretest-Posttest Research Designs. The American statistician, 34(4), pp.229–232. Available at: http://www.jstor.org/stable/2684066.
+
+Cole, T.J., 2000. Sympercents: symmetric percentage differences on the 100 log(e) scale simplify the presentation of log transformed data. Statistics in medicine, 19(22), pp.3109–3125. Available at: https://www.ncbi.nlm.nih.gov/pubmed/11113946.
+
+Cronbach, L.J. & Furby, L., 1970. How we should measure“ change”: Or should we? Psychological bulletin, 74(1), p.68. Available at: https://psycnet.apa.org/journals/bul/74/1/68/?casa_token=Tmi3TDsub5sAAAAA:pFExD5MbX1mf27wS80Q1iXO04IaAGw89Wh6aH65alkh366vgzgtULA_dmeB003P1FxhyyZdZD_ci_QFkfU974hmd.
+
+Data, L., 2004. Two Statistical Paradoxes in the Interpretation of Group Differences: Illustrated with. The American statistician, 58(2), pp.117–123. Available at: https://www.jstor.org/stable/27643519.
+
+Follmann, D.A., 1991. The effect of screening on some pretest-posttest test variances. Biometrics, 47(2), pp.763–771. Available at: https://www.ncbi.nlm.nih.gov/pubmed/1912270.
+
+Gollwitzer, M., Christ, O. & Lemmer, G., 2014. Individual differences make a difference: On the use and the psychometric properties of difference scores in social psychology. European journal of social psychology, 44(7), pp.673–682. Available at: https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2042.
+
+Holland, P.W. & Rubin, D.B., 1982. ON LORD’S PARADOX. ETS Research Report Series, 1982(2), pp.i–41. Available at: http://doi.wiley.com/10.1002/j.2333-8504.1982.tb01321.x.
+
+Holland, P.W. & Rubin, D.B., 1986. Research Designs and Causal Inferences: On Lord’s Paradox. In R. W. Pearson & R. F. Boruch, eds. Survey Research Designs: Towards a Better Understanding of Their Costs and Benefits: Prepared under the Auspices of the Working Group on the Comparative Evaluation of Longitudinal Surveys Social Science Research Council. New York, NY: Springer US, pp. 7–37. Available at: https://doi.org/10.1007/978-1-4684-6336-1_2.
+
+Kaiser, L., 1989. Adjusting for baseline: change or percentage change? Statistics in medicine, 8(10), pp.1183–1190. Available at: https://www.ncbi.nlm.nih.gov/pubmed/2682909.
+
+Kim, Y. & Steiner, P.M., 2019. Gain Scores Revisited: A Graphical Models Perspective. Sociological methods & research, p.0049124119826155. Available at: https://doi.org/10.1177/0049124119826155.
+
+Kronmal, R.A., 1993. Spurious Correlation and the Fallacy of the Ratio Standard Revisited. Journal of the Royal Statistical Society. Series A, , 156(3), pp.379–392. Available at: http://www.jstor.org/stable/2983064.
+
+Laird, N., 1983. Further Comparative Analyses of Pretest-Posttest Research Designs. The American statistician, 37(4a), pp.329–330. Available at: https://doi.org/10.1080/00031305.1983.10483133.
+
+Leo Tornqvist, P.V.A.Y.O.V., 1985. How should relative changes be measured? The American statistician, 39, pp.43–46. Available at: http://dx.doi.org/10.1080/00031305.1985.10479385.
+
+Lord, F.M., 1958. The utilization of unreliable difference scores. Journal of educational psychology, 49(3), p.150. Available at: https://psycnet.apa.org/record/1962-03648-001?casa_token=r09ijYoGYbwAAAAA:ar2IKZB22aVXRyeRQUmUYJ6b-ZAMzn6DRr87HJ5SEQ-W0xXeTHGaUnmvElSx_vMZ6mSXrUzLcUdaGfNQrNxrEkXm.
+
+Lund, T., 1999. Lord’s Paradox Re‐examined. Scandinavian Journal of Educational Research, 43(1), pp.41–55. Available at: https://www.tandfonline.com/doi/abs/10.1080/0031383990430103.
+
+Maris, E., 1998a. Covariance adjustment versus change scores revisited. Psychological Methods. Available at: https://www.researchgate.net/profile/Eric_Maris/publication/232462835_Covariance_adjustment_versus_change_scores-Revisited/links/54e36d2b0cf2b2314f5d1c4e/Covariance-adjustment-versus-change-scores-Revisited.pdf [Accessed March 17, 2019].
+
+Maris, E., 1998b. Covariance adjustment versus gain scores—revisited. Psychological methods, 3(3), p.309. Available at: https://psycnet.apa.org/journals/met/3/3/309/?casa_token=yuF07eXlycUAAAAA:l0ewlzBG67en5DeZlqxI5RehNDsdFYmD66zMzwMwoEiBCK1SSUZTMtVjkm6LiYdwkYuSlV0ARhxzGEgZ1BCl82WH.
+
+Pearl, J., 2016. Lord’s Paradox Revisited – (Oh Lord! Kumbaya!). Journal of Causal Inference, 4(2), p.143. Available at: https://www.degruyter.com/view/j/jci.2016.4.issue-2/jci-2016-0021/jci-2016-0021.xml.
+
+Peter, J.P., Churchill, G.A. & Brown, T.J., 1993. Caution in the Use of Difference Scores in Consumer Research. The Journal of consumer research, 19(4), pp.655–662. Available at: http://www.jstor.org/stable/2489447.
+
+Rogosa, D.R. & Willett, J.B., 1983. Demonstrating the Reliability of the Difference Score in the Measurement of Change. Journal of Educational Measurement, 20(4), pp.335–343. Available at: http://www.jstor.org/stable/1434950.
+
+Senn, S., 2006. Change from baseline and analysis of covariance revisited. Statistics in medicine, 25(24), pp.4334–4344. Available at: http://dx.doi.org/10.1002/sim.2682.
+
+Singer, J.M. & Andrade, D.F., 1997. Regression Models for the Analysis of Pretest/Posttest Data. Biometrics, 53(2), pp.729–735. Available at: http://www.jstor.org/stable/2533973.
+
+Theobald, R. & Richardson, T., 2015. LORD’S PARADOX AND TARGETED INTERVENTIONS. Available at: https://aefpweb.org/sites/default/files/webform/41/Theobald%20and%20Richardson%20(AEFP).pdf.
+
+Thomas, D.R. & Zumbo, B.D., 2012. Difference Scores From the Point of View of Reliability and Repeated-Measures ANOVA: In Defense of Difference Scores for Data Analysis. Educational and psychological measurement, 72(1), pp.37–43. Available at: https://doi.org/10.1177/0013164411409929.
+
+Tu, Y.-K., Gunnell, D. & Gilthorpe, M.S., 2008. Simpson’s Paradox, Lord's Paradox, and Suppression Effects are the same phenomenon--the reversal paradox. Emerging themes in epidemiology, 5, p.2. Available at: http://dx.doi.org/10.1186/1742-7622-5-2.
+
+Vickers, A.J., 2004. Change/percent change from baseline. Encyclopedia of Statistical Sciences. Available at: https://onlinelibrary.wiley.com/doi/abs/10.1002/0471667196.ess7245.
+
+Vickers, A.J., 2001. The use of percentage change from baseline as an outcome in a controlled trial is statistically inefficient: a simulation study. BMC medical research methodology, 1, p.6. Available at: https://www.ncbi.nlm.nih.gov/pubmed/11459516.
+
+Wainer, H. & Brown, L.M., 2006. 28 Three Statistical Paradoxes in the Interpretation of Group Differences: Illustrated with Medical School Admission and Licensing Data. In C. R. Rao & S. Sinharay, eds. Handbook of Statistics. Elsevier, pp. 893–918. Available at: http://www.sciencedirect.com/science/article/pii/S0169716106260280.
+
+Xiao, Z., Higgins, S. & Kasim, A., 2017. An Empirical Unravelling of Lord’s Paradox. arXiv [stat.ME]. Available at: http://arxiv.org/abs/1708.03796.
+
+Zumbo, B.D., 1999. The simple difference score as an inherently poor measure of change: Some reality, much mythology. Available at: http://faculty.educ.ubc.ca/zumbo/papers/Zumbo_1999_Difference_Score.pdf.
