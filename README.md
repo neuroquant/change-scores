@@ -1,7 +1,6 @@
 # change-scores
 
-
-# References
+# References ([Get papers](https://paperpile.com/shared/aUoeOh))
 
 Allison, P.D. (1990) Change Scores as Dependent Variables in Regression Analysis. Sociological methodology, 20, 93–114.
 
