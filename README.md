@@ -2,6 +2,7 @@
 
 
 # References
+
 Allison, P.D. (1990) Change Scores as Dependent Variables in Regression Analysis. Sociological methodology, 20, 93–114.
 
 Bajorski, P. and Petkau, J. (1999) Nonparametric Two-Sample Comparisons of Changes on Ordinal Responses. Journal of the American Statistical Association, 94, 970–978.
@@ -40,9 +41,7 @@ Frison, L. and Pocock, S.J. (1992) Repeated measures in clinical trials: analysi
 
 Gelman, A. (2020) Chapter 9. Causal inference using regression on the treatment variable. Advanced Regression and Multilevel Models
 
-Glymour, M.M., Weuve, J., Berkman, L.F., Kawachi, I. and Robins, J.M. (2005a) When is baseline adjustment useful in analyses of change? An example with education and cognitive change. American journal of epidemiology, 162, 267–278.
-
-Glymour, M.M., Weuve, J., Berkman, L.F., Kawachi, I. and Robins, J.M. (2005b) When is baseline adjustment useful in analyses of change? An example with education and cognitive change. American journal of epidemiology, 162, 267–278.
+Glymour, M.M., Weuve, J., Berkman, L.F., Kawachi, I. and Robins, J.M. (2005) When is baseline adjustment useful in analyses of change? An example with education and cognitive change. American journal of epidemiology, 162, 267–278.
 
 Gollwitzer, M., Christ, O. and Lemmer, G. (2014) Individual differences make a difference: On the use and the psychometric properties of difference scores in social psychology. European journal of social psychology, 44, 673–682.
 
@@ -62,9 +61,7 @@ Kim, Y. (2019) Are Gain Scores Really a “Treacherous Quicksand”? An Empirica
 
 Kim, Y. and Steiner, P.M. (2019a) Gain Scores Revisited: A Graphical Models Perspective. Sociological methods & research, 0049124119826155.
 
-Kim, Y. and Steiner, P.M. (2019b) Gain Scores Revisited: A Graphical Models Perspective. Sociological methods & research, 0049124119826155.
-
-Kim, Y. and Steiner, P. (2019c) Causal Graphical Views of Fixed Effects and Random Effects Models.
+Kim, Y. and Steiner, P. (2019b) Causal Graphical Views of Fixed Effects and Random Effects Models.
 
 Kramer, M.S., Zhang, X., Bin Aris, I., Dahhou, M., Naimi, A., Yang, S., et al. (2016) Methodological challenges in studying the causal determinants of child growth. International journal of epidemiology, 45, 2030–2037.
 
